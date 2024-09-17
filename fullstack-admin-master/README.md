@@ -1,0 +1,2 @@
+Built a full stack MERN admin dashboard with MongoDB, Express, React, and Node.js for seamless functionality. Created detailed data models using ER diagrams and developed feature-rich pages (Products,Customers,sales, Transactions, Geography,Admin,Performance)
+![Alt text](myimages/image1.jpeg)
